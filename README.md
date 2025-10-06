@@ -4,12 +4,12 @@
 I'm a final-year Information Technology student at Hanoi University of Civil Engineering, with a strong passion for Blockchain and Web3 technologies, and i'm seeking an internship opportunity Smart Contract Developer or Back-end Developer.
 
 ## 🛠️ Tech Stacks
-🔹 Solidity, Rust, Javascript.
-🔹 Blockchain, Ethereum, Hardhat, Foundry.
-🔹 NodeJS & ExpressJS
-🔹 RESTful API Design
-🔹 Database Management (MongoDB, MySQL)
-🔹 OOP, Git, DSA,...
+-🔹 Solidity, Rust, Javascript.
+-🔹 Blockchain, Ethereum, Hardhat, Foundry.
+-🔹 NodeJS & ExpressJS
+-🔹 RESTful API Design
+-🔹 Database Management (MongoDB, MySQL)
+-🔹 OOP, Git, DSA,...
 
 ## What I'm Looking For
 I'm actively seeking **Smart Contract Developer Intern** or **Backend Developer (Node.js) Intern** positions where I can:
