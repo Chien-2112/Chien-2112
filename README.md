@@ -24,7 +24,9 @@ I'm actively seeking **Smart Contract Developer Intern** or **Backend Developer 
 
 ## 🎓 Education
 **Hanoi University of Civil Engineering**
-- 📚 GPA: 3.39
-- 🎯 Major: Information Technology
+```
+📚 GPA: 3.39
+🎯 Major: Information Technology
+```
 
  💭 *"Developer | Builder | Trader - No shortcuts. Only hard work."*  💭 
