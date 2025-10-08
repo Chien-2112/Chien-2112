@@ -13,7 +13,7 @@ I'm a final-year Information Technology student at Hanoi University of Civil Eng
 🔹 OOP, Git, DSA,...
 ```
 
-## What I'm Looking For
+## 🌱 What I'm Looking For
 I'm actively seeking **Smart Contract Developer Intern** or **Backend Developer (Node.js) Intern** positions where I can:
 ```
 ✅ Apply my blockchain knowledge to real-world projects
